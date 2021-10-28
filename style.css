@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;1,100;1,200;1,300;1,700&display=swap');
+    
+html{
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero{
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+}
+.alte-head{
+    font-family: 'Ephesis'; 
+    background-color: black; 
+    color:white !important;
+    font-weight: bolder !important;
+    border-style: solid;
+    border-bottom-width: 2px;
+    border-radius: 70%;
+    border-color: white;
+}
+.w{
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.hanger{
+    color:white !important;
+    font-weight: bolder !important;
+    border-style: solid;
+    border-bottom-width: 0px;
+    border-color: black;
+    color: black;
+    
+}
+.sale{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    width:5%;
+    
+}
+.men{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 4vh;
+}
+.women{
+    font-family: 'Ephesis', sans-serif; 
+    font-weight: 600;
+    font-size: 4vh;
+}
+.sports{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 4vh;
+}
+.sneak-fluid{
+    border-width:2.1px !important;
+    border-style: solid;
+    border-top-width: 0px !important;
+    border-right-width: 0px !important;
+    border-bottom-color: black !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+.footer .container .row{
+    display: none;
+}
+}
